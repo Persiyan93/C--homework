@@ -1,0 +1,13 @@
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.exe
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.deps.json
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.runtimeconfig.json
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.runtimeconfig.dev.json
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.dll
+D:\gitHub\C-\Basic stack Operations\Key Revolver\bin\Debug\netcoreapp3.1\Key Revolver.pdb
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.csprojAssemblyReference.cache
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.csproj.CoreCompileInputs.cache
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.AssemblyInfoInputs.cache
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.AssemblyInfo.cs
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.dll
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.pdb
+D:\gitHub\C-\Basic stack Operations\Key Revolver\obj\Debug\netcoreapp3.1\Key Revolver.genruntimeconfig.cache

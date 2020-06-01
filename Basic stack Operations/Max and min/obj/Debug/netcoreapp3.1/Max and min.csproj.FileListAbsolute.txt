@@ -1,0 +1,13 @@
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.exe
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.deps.json
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.runtimeconfig.json
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.runtimeconfig.dev.json
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.dll
+D:\softUni\c# advanced\Basic stack Operations\Max and min\bin\Debug\netcoreapp3.1\Max and min.pdb
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.csprojAssemblyReference.cache
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.csproj.CoreCompileInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.AssemblyInfoInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.AssemblyInfo.cs
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.dll
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.pdb
+D:\softUni\c# advanced\Basic stack Operations\Max and min\obj\Debug\netcoreapp3.1\Max and min.genruntimeconfig.cache

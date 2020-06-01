@@ -1,0 +1,13 @@
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.csprojAssemblyReference.cache
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.csproj.CoreCompileInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.AssemblyInfoInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.AssemblyInfo.cs
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.exe
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.deps.json
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.runtimeconfig.json
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.runtimeconfig.dev.json
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.dll
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\bin\Debug\netcoreapp3.1\Basic stack Operations.pdb
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.dll
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.pdb
+D:\softUni\c# advanced\Basic stack Operations\Basic stack Operations\obj\Debug\netcoreapp3.1\Basic stack Operations.genruntimeconfig.cache

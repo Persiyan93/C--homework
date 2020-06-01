@@ -1,0 +1,13 @@
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.exe
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.deps.json
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.runtimeconfig.json
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.runtimeconfig.dev.json
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.dll
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\bin\Debug\netcoreapp3.1\Balanced Parenthesis.pdb
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.csprojAssemblyReference.cache
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.AssemblyInfo.cs
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.dll
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.pdb
+D:\softUni\c# advanced\Basic stack Operations\Balanced Parenthesis\obj\Debug\netcoreapp3.1\Balanced Parenthesis.genruntimeconfig.cache
