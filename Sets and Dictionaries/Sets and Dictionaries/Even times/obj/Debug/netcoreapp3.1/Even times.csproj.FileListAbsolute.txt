@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\bin\Debug\netcoreapp3.1\Even times.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\Even times\obj\Debug\netcoreapp3.1\Even times.genruntimeconfig.cache
