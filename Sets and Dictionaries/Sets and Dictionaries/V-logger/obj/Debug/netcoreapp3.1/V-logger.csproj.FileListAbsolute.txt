@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\bin\Debug\netcoreapp3.1\V-logger.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Sets and Dictionaries\V-logger\obj\Debug\netcoreapp3.1\V-logger.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action Point", "Action Point\Action Point.csproj", "{568FC5AD-F45E-4E95-9217-FDEF58A3B0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knights of Honor", "Knights of Honor\Knights of Honor.csproj", "{4874A9E4-4A6F-4BD2-B5BC-B471FA2C36A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Min Function", "Custom Min Function\Custom Min Function.csproj", "{2B185837-02C4-4818-8ABB-268EC9479F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find evens or Odds", "Find evens or Odds\Find evens or Odds.csproj", "{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{568FC5AD-F45E-4E95-9217-FDEF58A3B0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568FC5AD-F45E-4E95-9217-FDEF58A3B0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568FC5AD-F45E-4E95-9217-FDEF58A3B0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568FC5AD-F45E-4E95-9217-FDEF58A3B0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4874A9E4-4A6F-4BD2-B5BC-B471FA2C36A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4874A9E4-4A6F-4BD2-B5BC-B471FA2C36A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4874A9E4-4A6F-4BD2-B5BC-B471FA2C36A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4874A9E4-4A6F-4BD2-B5BC-B471FA2C36A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B185837-02C4-4818-8ABB-268EC9479F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B185837-02C4-4818-8ABB-268EC9479F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B185837-02C4-4818-8ABB-268EC9479F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B185837-02C4-4818-8ABB-268EC9479F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA657148-9CD1-42D6-A8D7-FF78155C5B63}
+	EndGlobalSection
+EndGlobal

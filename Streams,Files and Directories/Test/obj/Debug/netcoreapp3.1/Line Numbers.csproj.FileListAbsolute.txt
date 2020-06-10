@@ -1,0 +1,3 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Streams,Files and Directories\Test\obj\Debug\netcoreapp3.1\Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Streams,Files and Directories\Test\obj\Debug\netcoreapp3.1\Line Numbers.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Sets and Dictionaries\Streams,Files and Directories\Test\obj\Debug\netcoreapp3.1\Line Numbers.AssemblyInfo.cs
