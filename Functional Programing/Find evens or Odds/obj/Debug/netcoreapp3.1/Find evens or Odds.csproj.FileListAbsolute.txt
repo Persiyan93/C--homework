@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\bin\Debug\netcoreapp3.1\Find evens or Odds.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Find evens or Odds\obj\Debug\netcoreapp3.1\Find evens or Odds.genruntimeconfig.cache
