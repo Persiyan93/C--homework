@@ -1,0 +1,12 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\bin\Debug\netcoreapp3.1\Custom comparator.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Custom comparator\obj\Debug\netcoreapp3.1\Custom comparator.genruntimeconfig.cache
