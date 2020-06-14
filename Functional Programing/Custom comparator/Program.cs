@@ -11,14 +11,15 @@ namespace Custom_comparator
             int[] array = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
             List<int> evenList = new List<int>();
             evenList = array.Where(x => x % 2 == 0).ToList();
-            foreach (var item in array)
+            List<int> oddList = new List<int>();
+            oddList = array.Where(x => x % 2 != 0).ToList();
+            oddList.Sort();
+            evenList.Sort();
+            foreach (var item in oddList)
             {
-                if (item%2!=0)
-                {
-                    evenList.Add(item);
-                }
+                evenList.Add(item);
             }
-           
+
             Console.WriteLine(string.Join(" ", evenList));
         }
     }

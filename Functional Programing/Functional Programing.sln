@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom Min Function", "Cust
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find evens or Odds", "Find evens or Odds\Find evens or Odds.csproj", "{C1FBD4C7-567A-4D9D-A32E-C76AC62E5113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applied Arithmetics", "Applied Arithmetics\Applied Arithmetics.csproj", "{4A73257A-BAC9-4F83-AB01-B3449ACE3A44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applied Arithmetics", "Applied Arithmetics\Applied Arithmetics.csproj", "{4A73257A-BAC9-4F83-AB01-B3449ACE3A44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse and Exclude", "Reverse and Exclude\Reverse and Exclude.csproj", "{021962B9-7C00-4E53-80D2-FDE87EEFA85E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse and Exclude", "Reverse and Exclude\Reverse and Exclude.csproj", "{021962B9-7C00-4E53-80D2-FDE87EEFA85E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate for Names", "Predicate for Names\Predicate for Names.csproj", "{569E8552-8200-4F93-A7C2-0386598DF8DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Predicate for Names", "Predicate for Names\Predicate for Names.csproj", "{569E8552-8200-4F93-A7C2-0386598DF8DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom comparator", "Custom comparator\Custom comparator.csproj", "{71E4413D-9227-475F-9C54-144C5EDFCA76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom comparator", "Custom comparator\Custom comparator.csproj", "{71E4413D-9227-475F-9C54-144C5EDFCA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List of predicates", "List of predicates\List of predicates.csproj", "{FC812D6C-4EFE-40AB-B26E-F49103B8CF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{71E4413D-9227-475F-9C54-144C5EDFCA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E4413D-9227-475F-9C54-144C5EDFCA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E4413D-9227-475F-9C54-144C5EDFCA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC812D6C-4EFE-40AB-B26E-F49103B8CF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC812D6C-4EFE-40AB-B26E-F49103B8CF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC812D6C-4EFE-40AB-B26E-F49103B8CF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC812D6C-4EFE-40AB-B26E-F49103B8CF54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

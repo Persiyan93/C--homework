@@ -1,0 +1,12 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\bin\Debug\netcoreapp3.1\List of predicates.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\List of predicates\obj\Debug\netcoreapp3.1\List of predicates.genruntimeconfig.cache
