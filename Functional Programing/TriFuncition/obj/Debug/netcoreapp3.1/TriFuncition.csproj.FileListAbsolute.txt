@@ -1,0 +1,12 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\bin\Debug\netcoreapp3.1\TriFuncition.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\TriFuncition\obj\Debug\netcoreapp3.1\TriFuncition.genruntimeconfig.cache
