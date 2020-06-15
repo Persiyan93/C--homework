@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\bin\Debug\netcoreapp3.1\Predicate party !.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Functional Programing\Predicate party !\obj\Debug\netcoreapp3.1\Predicate party !.genruntimeconfig.cache
