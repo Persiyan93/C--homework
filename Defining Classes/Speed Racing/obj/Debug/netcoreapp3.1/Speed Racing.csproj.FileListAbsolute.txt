@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.genruntimeconfig.cache

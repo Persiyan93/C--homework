@@ -25,7 +25,7 @@ namespace TriFuncition
             
             for (int i = 0; i < names.Count; i++)
             {
-                if (Charsum(names[i])==number)
+                if (Charsum(names[i])>=number)
                 {
                     Console.WriteLine(names[i]);
                     break;
