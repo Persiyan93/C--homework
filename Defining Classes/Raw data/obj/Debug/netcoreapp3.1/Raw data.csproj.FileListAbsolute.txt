@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\bin\Debug\netcoreapp3.1\Raw data.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Defining Classes\Raw data\obj\Debug\netcoreapp3.1\Raw data.genruntimeconfig.cache

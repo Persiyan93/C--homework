@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.exe
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.dll
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\bin\Debug\netcoreapp3.1\Loot box.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.dll
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\tets exam\Loot box\obj\Debug\netcoreapp3.1\Loot box.genruntimeconfig.cache

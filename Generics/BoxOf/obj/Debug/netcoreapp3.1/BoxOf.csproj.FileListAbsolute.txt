@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\bin\Debug\netcoreapp3.1\BoxOf.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\BoxOf\obj\Debug\netcoreapp3.1\BoxOf.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\bin\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Generics\Generic Count Method Strings\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache
