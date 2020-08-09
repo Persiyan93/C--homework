@@ -1,0 +1,2 @@
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended.Tests\Debug\netcoreapp3.1\DatabaseExtended.Tests.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\DatabaseExtended.Tests\Debug\netcoreapp3.1\DatabaseExtended.Tests.AssemblyInfo.cs

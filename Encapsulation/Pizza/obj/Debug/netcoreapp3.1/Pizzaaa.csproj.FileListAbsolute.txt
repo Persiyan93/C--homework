@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.exe
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.runtimeconfig.json
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.runtimeconfig.dev.json
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\bin\Debug\netcoreapp3.1\Pizzaaa.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.dll
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\Encapsulation\Pizza\obj\Debug\netcoreapp3.1\Pizzaaa.genruntimeconfig.cache

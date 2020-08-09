@@ -1,0 +1,9 @@
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb
