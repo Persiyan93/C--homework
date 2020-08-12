@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AquaShop.Models.Aquariums
+{
+    public class FreshwaterAquarium : Aquarium
+    {
+        private const int DEFAULT_CAPACITY = 50;
+        public FreshwaterAquarium(string name) : base(name, DEFAULT_CAPACITY)
+        {
+        }
+    }
+}

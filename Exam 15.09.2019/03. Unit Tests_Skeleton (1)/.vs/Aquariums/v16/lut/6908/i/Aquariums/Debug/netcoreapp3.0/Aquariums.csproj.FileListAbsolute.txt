@@ -1,0 +1,11 @@
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.CopyComplete
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\persi\Desktop\Exam 2019-2\03. Unit Tests_Skeleton (1)\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
