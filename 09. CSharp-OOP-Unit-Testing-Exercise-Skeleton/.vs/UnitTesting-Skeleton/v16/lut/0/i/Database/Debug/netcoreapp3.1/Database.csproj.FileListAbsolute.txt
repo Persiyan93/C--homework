@@ -1,6 +1,0 @@
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\b\Database\Debug\netcoreapp3.1\Database.deps.json
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\b\Database\Debug\netcoreapp3.1\Database.dll
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.csproj.CopyComplete
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\.vs\UnitTesting-Skeleton\v16\lut\0\i\Database\Debug\netcoreapp3.1\Database.dll

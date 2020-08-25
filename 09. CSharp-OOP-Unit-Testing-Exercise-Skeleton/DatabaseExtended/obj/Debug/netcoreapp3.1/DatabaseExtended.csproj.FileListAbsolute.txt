@@ -1,9 +1,0 @@
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
-C:\Users\persi\Desktop\C# homework\C--homework\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
